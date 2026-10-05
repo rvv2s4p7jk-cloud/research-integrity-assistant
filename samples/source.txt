@@ -1,0 +1,1 @@
+Dynamic access decisions incorporate observed behavior and contextual indicators to adapt permissions over time. Actual effectiveness depends on data quality and evaluation design.

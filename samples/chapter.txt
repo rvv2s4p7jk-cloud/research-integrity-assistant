@@ -1,0 +1,8 @@
+Chapter 1: Introduction
+
+Research shows that behavioral profiling always guarantees perfect security outcomes across all organizations.
+
+Dynamic access decisions incorporate observed behavior and contextual indicators to adapt permissions over time. The proposed study compares recall across a static baseline and a dynamic policy.
+
+References
+Synthetic demonstration source.
